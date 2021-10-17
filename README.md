@@ -36,3 +36,10 @@ APK:
 Exe:
 [Link](https://drive.google.com/drive/folders/1oKU7WUHC_9ScptQ3EWbZBUoe7X_hPKU2?usp=sharing)
 
+How to Play:
+
+touch\press on the area where u wants your player to go to,and Kara will move to that direction.
+-----
+tap the grenade button to shoot.
+-----
+
