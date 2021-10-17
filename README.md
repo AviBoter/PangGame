@@ -38,8 +38,8 @@ Exe:
 
 How to Play:
 
-touch\press on the area where u wants your player to go to,and Kara will move to that direction.
+Touch\press on the area where u wants your player to go to,and Kara will move to that direction.
 -----
-tap the grenade button to shoot.
+Tap the grenade button to shoot.
 -----
 
